@@ -1,6 +1,6 @@
 # Money Detective: A Practical Savings Planner
 
-## 1. Summary
+## Summary
 
 **Money Detective** is a simple budgeting tool that helps people understand where their money is going and decide what they can realistically save. Users enter their income and fixed expenses, log daily spending, set a savings goal, and see a payday plan with warnings when their budget is tight.
 
